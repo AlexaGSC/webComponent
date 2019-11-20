@@ -9,8 +9,7 @@ constructor() {
         Día ${day} 
     </div>
     `;
-    
-    
+       
     }
 }
 
