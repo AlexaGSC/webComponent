@@ -12,3 +12,4 @@ export class CalendarMonth extends HTMLElement {
     
     }
 }
+customElements.define('calendar-month', CalendarMonth);
